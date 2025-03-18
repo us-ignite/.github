@@ -1,0 +1,5 @@
+{
+    "name": "GitGuardian scan",
+    "description": "Scan the repository for secrets using GitGuardian",
+    "icon-name": "codescan"
+}
